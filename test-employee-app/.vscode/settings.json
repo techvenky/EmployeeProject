@@ -1,0 +1,10 @@
+{
+    "typescriptHero.imports.disableImportsSorting": false,
+    "typescriptHero.imports.grouping": [
+
+        "Plains",
+        "Modules",
+        "Workspace"
+    ],
+    "typescript.tsserver.experimental.enableProjectDiagnostics": true
+}
